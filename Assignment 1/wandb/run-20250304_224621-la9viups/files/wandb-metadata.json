@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-03-04T17:16:21.260905Z",
+  "program":  "c:\\Users\\Rajnish\\Desktop\\Rajnish\\M.Tech DSAI'26\\M.Tech DSAI 2024-2026\\Semester 2\\Introduction to Deep Learning\\Introduction-to-Deep-Learning-DA6401-\\Assignment 1\\Question1.ipynb",
+  "codePath":  "Assignment 1\\Question1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Rajnishmaurya/Introduction-to-Deep-Learning-DA6401-.git",
+    "commit":  "a5de7ce4190ec8a73b7d6aa596167db0a57da51b"
+  },
+  "email":  "da24m015@smail.iitm.ac.in",
+  "root":  "c:\\Users\\Rajnish\\Desktop\\Rajnish\\M.Tech DSAI'26\\M.Tech DSAI 2024-2026\\Semester 2\\Introduction to Deep Learning\\Introduction-to-Deep-Learning-DA6401-\\Assignment 1",
+  "host":  "DESKTOP-PB4LD2R",
+  "executable":  "c:\\Users\\Rajnish\\anaconda3\\envs\\keras_env\\python.exe",
+  "codePathLocal":  "Question1.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510938574848",
+      "used":  "161173938176"
+    }
+  },
+  "memory":  {
+    "total":  "16905809920"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
